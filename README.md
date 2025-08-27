@@ -1,0 +1,2 @@
+I accessed an open-source dataset available online on Kaggle. The dataset had multiple coloumns of information. However for this project the focus was primarily to know the highest beer consumption in the world. I sorted the data on the basis of countries and the ranks (top 10) using a simple python code along with the csv. file.  
+Further,  I created this visualisation to represent the information. 
